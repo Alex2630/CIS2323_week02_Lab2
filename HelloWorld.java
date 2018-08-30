@@ -12,7 +12,7 @@ public class HelloWorld {
 		char mySex = 'M';
 		double myHeight = 6.4;
 		String name;
-		Scanner inputDevice = new scanner(system.in);
+		Scanner inputDevice = new Scanner(System.in);
 		
 		System.out.println("Hello Cis2323!");
 		System.out.println( "I am " + myAge + " years old.");  
